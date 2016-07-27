@@ -1,7 +1,7 @@
 
-# MattTavares.github.io
+# JenHanson.github.io
 
-#### http://M.atthew.com - http://MattTavares.github.io
-#### https://github.com/MattTavares/MattTavares.github.io
+#### http://JenHanson.github.io
+#### https://github.com/JenHanson/JenHanson.github.io
 
-This is Matthew Tavares' web portfolio
+This is Jen Hanson' web portfolio
